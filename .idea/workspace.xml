@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="200fd382-832c-4d71-b80a-a8dec5c0e1d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="200fd382-832c-4d71-b80a-a8dec5c0e1d2" name="Default Changelist" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -49,21 +50,41 @@
       <option name="presentableId" value="Default" />
       <updated>1616149707795</updated>
       <workItem from="1616149708895" duration="568000" />
-      <workItem from="1616150302388" duration="1062000" />
+      <workItem from="1616150302388" duration="1249000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1616151390225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616151390225</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="841" y="407" key="FileChooserDialogImpl" timestamp="1616149783444">
+    <state x="841" y="407" key="FileChooserDialogImpl" timestamp="1616151200862">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="841" y="407" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1616149783444" />
-    <state x="461" y="185" key="SettingsEditor" timestamp="1616149874517">
+    <state x="841" y="407" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1616151200862" />
+    <state x="812" y="424" key="Github.ShareDialog" timestamp="1616151412556">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1616149874517" />
+    <state x="812" y="424" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1616151412556" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1616151559482">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1616151559482" />
+    <state x="552" y="269" key="Vcs.Push.Dialog.v2" timestamp="1616151395945">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1616151395945" />
   </component>
 </project>

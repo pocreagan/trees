@@ -1,16 +1,17 @@
+from dataclasses import dataclass
+from dataclasses import InitVar
+from functools import cached_property
 from typing import Tuple
+
+import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from functools import cached_property
-import matplotlib.pyplot as plt
-
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
-from tensorflow.keras.layers.experimental import preprocessing
 # noinspection PyUnresolvedReferences
 from tensorflow.keras import models
-from dataclasses import InitVar, dataclass
+from tensorflow.keras.layers.experimental import preprocessing
 
 
 @dataclass
@@ -114,7 +115,7 @@ class TreeModel:
         plt.scatter(self.testing_data.labels, self.test_predictions)
         plt.xlabel('Known Ages')
         plt.ylabel('Predictions')
-        limits = [0, int(max(self.testing_data.labels)*1.1)]
+        limits = [0, int(max(self.testing_data.labels) * 1.1)]
         plt.xlim(limits)
         plt.ylim(limits)
         _ = plt.plot(limits, limits)
