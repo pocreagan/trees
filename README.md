@@ -1,12 +1,12 @@
 # trees
 
-i recommend VSCode with the Pylance extension:
-https://code.visualstudio.com/download
+i recommend VSCode with the Pylance extension:\n
+https://code.visualstudio.com/download\n
 
-download python:
-https://www.python.org/downloads/release/python-388/
+download python:\n
+https://www.python.org/downloads/release/python-388/\n
 
-from your shell:
-pip install pipenv
-pipenv shell
-pipenv sync
+from your shell:\n
+pip install pipenv\n
+pipenv shell\n
+pipenv sync\n
